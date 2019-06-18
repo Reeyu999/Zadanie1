@@ -23,6 +23,7 @@ public class Main {
 
         showBirds.showAnimals(list);
         showEachAnimalTwicee.showAnimals(list);
+        showEachBirdTwice.showAnimals(list);
 
 
 
