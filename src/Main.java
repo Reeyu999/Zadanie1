@@ -3,6 +3,7 @@ import zoo.ShowEachAnimalTwiceZoo;
 import zoo.ShowEachBirdTwiceZoo;
 import zoo.ShowOnlyBirdsZoo;
 import zoo.Zoo;
+import animal.Bird;
 
 import java.util.ArrayList;
 
@@ -23,7 +24,7 @@ public class Main {
 
         showBirds.showAnimals(list);
         showEachAnimalTwicee.showAnimals(list);
-        showEachBirdTwice.showAnimals(list);
+
 
 
 
